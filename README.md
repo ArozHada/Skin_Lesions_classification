@@ -41,7 +41,19 @@ Hair removal with black-hat transformation
 
 ![image](https://user-images.githubusercontent.com/19288227/179272946-7d01e1a9-869c-4fef-bf56-68152acc656e.png)
 
+----------------------------------------------------------------------------------------
+## DL Algorithms
+1. ResNet
+2. DenseNet
+3. VGG
+4. AlexNet
+
 --------------------------------------------------------------------------------------
 ## Results
 
 ![image](https://user-images.githubusercontent.com/19288227/179273090-464681ba-7d00-4a72-9e5c-54ebf4fa8268.png)
+
+![image](https://user-images.githubusercontent.com/19288227/179277050-22720a72-5496-4199-b58d-bcdd89628c22.png)
+
+
+
